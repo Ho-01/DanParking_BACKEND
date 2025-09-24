@@ -64,11 +64,20 @@
 ![Java 17](https://img.shields.io/badge/-Java%2017-000?logo=java&logoColor=007396&labelColor=000&style=flat-square)
 ![Gradle](https://img.shields.io/badge/-Gradle-000?logo=gradle&logoColor=02303A&labelColor=000&style=flat-square)
 
+### 🎮 AI
+![YOLOv5](https://img.shields.io/badge/-YOLOv5-000?logo=yolo&logoColor=FFFFFF&labelColor=000&style=flat-square)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?logo=pytorch&logoColor=EE4C2C&labelColor=000&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-000?logo=python&logoColor=3776AB&labelColor=000&style=flat-square)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?logo=opencv&logoColor=FFFFFF&labelColor=000&style=flat-square)
+
 ### 🗄 Database & Infra
 ![MySQL](https://img.shields.io/badge/-MySQL-000?logo=mysql&logoColor=4479A1&labelColor=000&style=flat-square)
 ![AWS RDS](https://img.shields.io/badge/-AWS%20RDS-000?logo=amazonrds&logoColor=527FFF&labelColor=000&style=flat-square)
 ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-000?logo=amazonaws&logoColor=FF9900&labelColor=000&style=flat-square)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?logo=nginx&logoColor=009639&labelColor=000&style=flat-square)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?logo=elasticsearch&logoColor=FFFFFF&labelColor=000&style=flat-square)
+![Logstash](https://img.shields.io/badge/-Logstash-000?logo=logstash&logoColor=FFFFFF&labelColor=000&style=flat-square)
+![Kibana](https://img.shields.io/badge/-Kibana-000?logo=kibana&logoColor=FFFFFF&labelColor=000&style=flat-square)
 
 ---
 
