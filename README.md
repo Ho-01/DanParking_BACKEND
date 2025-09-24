@@ -54,9 +54,10 @@
 ## 🛠 기술 스택
 
 ### 🎨 Frontend
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?logo=androidstudio&logoColor=3DDC84&labelColor=000&style=flat-square)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?logo=kotlin&logoColor=7F52FF&labelColor=000&style=flat-square)
-![Gradle](https://img.shields.io/badge/-Gradle-000?logo=gradle&logoColor=02303A&labelColor=000&style=flat-square)
+![React Native](https://img.shields.io/badge/-React%20Native-000?logo=react&logoColor=61DAFB&labelColor=000&style=flat-square)
+![Expo](https://img.shields.io/badge/-Expo-000?logo=expo&logoColor=FFFFFF&labelColor=000&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript&logoColor=3178C6&labelColor=000&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript&logoColor=F7DF1E&labelColor=000&style=flat-square)
 
 ### ⚙️ Backend
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?logo=springboot&logoColor=6DB33F&labelColor=000&style=flat-square)
@@ -73,7 +74,7 @@
 
 ## 👥 기여자
 
-- #### 김승호 – ERD설계, Backend API 개발, AWS 관리, ELK스택
-- #### 김준원
-- #### 유위창
-- #### 현수민
+- #### 김승호 – ERD설계, Backend API 개발, AWS EC2 & RDS 관리, ELK스택
+- #### 김준원 - YOLO 모듈 설계 & 개발
+- #### 유위창 - YOLO 모듈 설계 & 개발
+- #### 현수민 - 기획, 디자인, Frontend 설계 & 개발
