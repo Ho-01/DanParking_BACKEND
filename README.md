@@ -4,7 +4,7 @@
 > 사용자의 위치 기반으로 주차 가능 공간을 빠르게 안내하고, 혼잡도를 시각화하여 보다 효율적인 주차를 도와줍니다.
 
 <p align="center">
-  <img src="./docs/title.png" width="800"/>
+  <img src="./docs/title.png" width="100%"/>
 </p>
 
 ![Last Commit](https://img.shields.io/github/last-commit/Ho-01/NAVI_frontend?style=flat-square&label=Last%20Commit&color=000&labelColor=000&logo=git&logoColor=F05032)
@@ -17,24 +17,24 @@
 ## 📸 스크린샷
 
 <p align="center">
-  <img src="./docs/screenshot1.png" width="100"/>
-  <img src="./docs/screenshot2.png" width="100"/>
-  <img src="./docs/screenshot3.png" width="100"/>
-  <img src="./docs/screenshot4.png" width="100"/>
-  <img src="./docs/screenshot5.png" width="100"/>
-  <img src="./docs/screenshot6.png" width="100"/>
-  <img src="./docs/screenshot7.png" width="100"/>
-  <img src="./docs/screenshot8.png" width="100"/>
+  <img src="./docs/screenshot1.png" width="12.5%"/>
+  <img src="./docs/screenshot2.png" width="12.5%"/>
+  <img src="./docs/screenshot3.png" width="12.5%"/>
+  <img src="./docs/screenshot4.png" width="12.5%"/>
+  <img src="./docs/screenshot5.png" width="12.5%"/>
+  <img src="./docs/screenshot6.png" width="12.5%"/>
+  <img src="./docs/screenshot7.png" width="12.5%"/>
+  <img src="./docs/screenshot8.png" width="12.5%"/>
 </p>
 
 ### 백엔드 아키텍처
 <p align="center">
-  <img src="./docs/be.png" width="900"/>
+  <img src="./docs/be.png" width="100%"/>
 </p>
 
 ### 프로젝트 전체 아키텍쳐
 <p align="center">
-  <img src="./docs/architecture.png" width="900"/>
+  <img src="./docs/architecture.png" width="100%"/>
 </p>
 
 ---
